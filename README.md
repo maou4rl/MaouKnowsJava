@@ -3,7 +3,7 @@
 **Clean, modular, and professional Telegram Userbot** built with [Telethon](https://github.com/LonamiWebs/Telethon).
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![Telethon](https://img.shields.io/badge/Telethon-1.36+-green)
+![Telethon](https://img.shields.io/badge/Telethon-1.36+-green) 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
